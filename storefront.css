@@ -1,0 +1,51 @@
+#wrapper{
+    background: url("./Assets/otr-background-1.jpg");
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3cm;
+    color: black;
+    text-align: center;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2cm;
+}
+
+ul{
+    font-size: 6mm;
+    background-color: black;
+}
+
+.name{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.utility{
+    height: 40px;
+    margin-left: 20mm;
+    margin-right: 20mm;
+}
+
+.nav{
+    margin-left: 20mm;
+    margin-right: 20mm;
+}
+.ponies{
+    background-color: cornsilk;
+    margin: 5px 10px 20px 0px;
+    padding: 10px 10px 10px 10px;
+    width: 600px;
+    text-align: center;
+}
+
+.main{
+    margin-left: 290px;
+}
+
+footer{
+    margin-right: 20mm;
+    margin-left: 20mm;
+}
